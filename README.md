@@ -19,6 +19,7 @@
 - **Marko Leugim Cordova Castro** - GitHub Account - [Marko99-CC](https://github.com/Marko99-CC)
 - **Huaman Hermoza Antony Isaac** - GitHub Account - [Isaac170434](https://github.com/Isaac170434)
 - **Mariela Luycho Ancaifuro** - GitHub Account - [Mariela112](https://github.com/MLuAnc)
+- **Benjamín Ore Gamarra** - GitHub Account-[benjaminx321](https://github.com/benjaminx321)
 ---
 ## Explicacion general del proyecto
 - Descripcion General: [GENERAL]()

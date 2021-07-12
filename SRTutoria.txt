@@ -506,16 +506,6 @@
           "customProperties": {
             "Description": ""
           }
-        },
-        {
-          "id": "0d300aad-d5ba-4c52-bc7b-b1b98a4205d0",
-          "text": "#G08T6 Generar algoritmo de designación ayudantes a tutorados ",
-          "type": "istar.Task",
-          "x": 407,
-          "y": 642,
-          "customProperties": {
-            "Description": ""
-          }
         }
       ]
     },
@@ -1142,12 +1132,6 @@
       "type": "istar.AndRefinementLink",
       "source": "677b743f-abfc-4e13-bc57-5fc04b2e4a41",
       "target": "af8de093-fa07-4cec-8c30-92d450ea2952"
-    },
-    {
-      "id": "51ca553f-f636-40bb-825a-a381501a509c",
-      "type": "istar.AndRefinementLink",
-      "source": "319481df-22ba-4037-9cb7-a0400fffc7fd",
-      "target": "0d300aad-d5ba-4c52-bc7b-b1b98a4205d0"
     }
   ],
   "display": {
@@ -1322,10 +1306,6 @@
       "width": 125.96875,
       "height": 51.578125
     },
-    "0d300aad-d5ba-4c52-bc7b-b1b98a4205d0": {
-      "width": 136.609375,
-      "height": 67
-    },
     "84835f08-185f-4d41-8a28-f7465753415c": {
       "width": 148.96875,
       "height": 61.578125
@@ -1464,7 +1444,7 @@
   },
   "tool": "pistar.2.0.0",
   "istar": "2.0",
-  "saveDate": "Mon, 12 Jul 2021 03:09:29 GMT",
+  "saveDate": "Mon, 12 Jul 2021 03:24:10 GMT",
   "diagram": {
     "width": 2467,
     "height": 1300,

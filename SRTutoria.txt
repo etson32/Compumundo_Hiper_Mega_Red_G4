@@ -160,7 +160,7 @@
           "text": "#G03T1 Asignar estudiantes a un tutor respectivo",
           "type": "istar.Task",
           "x": 1396,
-          "y": 801,
+          "y": 800,
           "customProperties": {
             "Description": ""
           }
@@ -227,7 +227,7 @@
         },
         {
           "id": "346b0979-7da2-4827-be17-91ff02eecd6d",
-          "text": "#G04T4 Publicar programa final de tutoría ",
+          "text": "#G06T5 Publicar programa final de tutoría ",
           "type": "istar.Task",
           "x": 1326,
           "y": 656,
@@ -1484,7 +1484,7 @@
   },
   "tool": "pistar.2.0.0",
   "istar": "2.0",
-  "saveDate": "Mon, 12 Jul 2021 00:19:19 GMT",
+  "saveDate": "Mon, 12 Jul 2021 01:58:55 GMT",
   "diagram": {
     "width": 2467,
     "height": 1300,

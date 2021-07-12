@@ -391,7 +391,7 @@
           "id": "3ec2b2f0-c7d4-4e2f-8333-c08ec9603a75",
           "text": "#G05T3 obtener avance curricular de tutorados",
           "type": "istar.Task",
-          "x": 496,
+          "x": 497,
           "y": 831,
           "customProperties": {
             "Description": ""
@@ -503,16 +503,6 @@
           "type": "istar.Task",
           "x": 297,
           "y": 556,
-          "customProperties": {
-            "Description": ""
-          }
-        },
-        {
-          "id": "e9629333-6bf8-446c-b643-91526c026b6f",
-          "text": "#G03T4 Filtrar estudiantes asignados por tutor",
-          "type": "istar.Task",
-          "x": 393,
-          "y": 1095,
           "customProperties": {
             "Description": ""
           }
@@ -1154,12 +1144,6 @@
       "target": "af8de093-fa07-4cec-8c30-92d450ea2952"
     },
     {
-      "id": "289158bc-3365-49da-97e7-6f5ba1c1638c",
-      "type": "istar.AndRefinementLink",
-      "source": "a74a1421-a42f-414c-8182-a0460eadef3d",
-      "target": "e9629333-6bf8-446c-b643-91526c026b6f"
-    },
-    {
       "id": "51ca553f-f636-40bb-825a-a381501a509c",
       "type": "istar.AndRefinementLink",
       "source": "319481df-22ba-4037-9cb7-a0400fffc7fd",
@@ -1338,10 +1322,6 @@
       "width": 125.96875,
       "height": 51.578125
     },
-    "e9629333-6bf8-446c-b643-91526c026b6f": {
-      "width": 110.109375,
-      "height": 49.90625
-    },
     "0d300aad-d5ba-4c52-bc7b-b1b98a4205d0": {
       "width": 136.609375,
       "height": 67
@@ -1484,7 +1464,7 @@
   },
   "tool": "pistar.2.0.0",
   "istar": "2.0",
-  "saveDate": "Mon, 12 Jul 2021 01:58:55 GMT",
+  "saveDate": "Mon, 12 Jul 2021 03:09:29 GMT",
   "diagram": {
     "width": 2467,
     "height": 1300,

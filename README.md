@@ -14,7 +14,7 @@
 
 #### Autores:
 - **Ramos Alvarez Edgar Daniel** - _GitHub Account_ - [razerr17](https://github.com/razerr17)
-- **Sullca Peralta Melanie Indira ** - _GitHub Account_ - [Melanie279](https://github.com/Melanie279)
+- **Sullca Peralta Melanie Indira** - _GitHub Account_ - [Melanie279](https://github.com/Melanie279)
 - **Rojas Cahuana Etson Ronaldao** - _GitHub Account_ - [etson32](https://github.com/etson32)
 - **Cordova Castro Marko Leugim ** - GitHub Account - [Marko99-CC](https://github.com/Marko99-CC)
 - **Huaman Hermoza Antony Isaac** - GitHub Account - [Isaac170434](https://github.com/Isaac170434)

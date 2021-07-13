@@ -20,6 +20,7 @@
 - **Huaman Hermoza Antony Isaac** - GitHub Account - [Isaac170434](https://github.com/Isaac170434)
 - **Mariela Luycho Ancaifuro** - GitHub Account - [Mariela112](https://github.com/MLuAnc)
 - **Benjamín Ore Gamarra** - GitHub Account-[benjaminx321](https://github.com/benjaminx321)
+- **Carlos Eduardo Inca Cruz** - GitHub Account-[CarlosEdu322](https://github.com/CarlosEdu322)
 ---
 ## Explicacion general del proyecto
 - Descripcion General: [GENERAL]()
